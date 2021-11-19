@@ -1,0 +1,27 @@
+{
+	"version": "1.0.0",
+	"name": "asseinfo__react-kanban",
+	"author": "Ahmet Buğra Aydın <bugraaydin1@hotmail.com>",
+	"description": "Type definition file for @asseinfo/react-kanban",
+	"main": "",
+	"types": "index.d.ts",
+	"typeScriptVersion": "4.4",
+	"homepage": "https://github.com/bugraaydin1/types-asseinfo-react-kanban#readme",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/bugraaydin1/types-asseinfo-react-kanban.git"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/bugraaydin1/types-asseinfo-react-kanban/issues"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"react-kanban",
+		"types",
+		"definition",
+		"d.ts"
+	]
+}
