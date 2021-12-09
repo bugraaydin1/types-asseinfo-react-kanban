@@ -1,4 +1,4 @@
-## Type Declaration (.d.ts) for @asseinfo/react-kanban (npm: @asseinfo/react-kanban)
+## Type Declaration (.d.ts) for @asseinfo/react-kanban
 
 #### Type Declaration (.d.ts) for [@asseinfo/react-kanban](https://www.npmjs.com/package/@asseinfo/react-kanban)
 
