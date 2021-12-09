@@ -11,9 +11,9 @@
 
 This package contains type definitions for @asseinfo/react-kanban (https://www.npmjs.com/package/@asseinfo/react-kanban ).
 
-# Details
+<!-- # Details
 
-Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/asseinfo-react-kanban
+Files were exported from https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/asseinfo-react-kanban  -->
 
 <!-- Additional Details
 
